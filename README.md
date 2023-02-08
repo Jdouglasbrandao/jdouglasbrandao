@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoCol)](https://twitter.com/JDouglasBrandao)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdouglasbrandao&show_icons=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdouglasbrandao&show_icons=true&theme=dracula)
 
 
 ### Tecnologias que eu uso no meu dia
